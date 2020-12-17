@@ -1,6 +1,6 @@
 <p id="downloads" align="center">
 	<img src="https://i.stack.imgur.com/TOfqL.png" height="120px"/>
-	<h1 align="center">Powerfull Tools</h1>
+	<h1 align="center">Xtreme Download Manager</h1>
 </p>
 
 <p align="center">
